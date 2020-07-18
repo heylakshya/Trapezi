@@ -1,0 +1,14 @@
+  Table 1. Solubility Behaviors of Various Sulfonated
+     Polyimides in Triethylammonium Salt Form
+       polyimide          m-cresol   DMSO   NMP   DMAc
+NTDA-ODADS                  +         +      -      -
+NTDA-ODADS/ODA(1/1)         +         -      -      -
+NTDA-ODADS/BAPB(1/1)        +         -      -      -
+NTDA-ODADS/BAPF(1/1)        +         +      -      -
+NTDA-ODADS/BAPHF(1/1)       +         +      -      -
+NTDA-BDSA                   +         +      -      -
+NTDA-BDSA/ODA(1/1)          +         -      -      -
+NTDA-BDSA/BAPB(1/1)         +-        -      -      -
+NTDA-BDSA/BAPF(1/1)         +         +      -      -
+NTDA-BDSA/BAPHF(1/1)        +         +      -      -
+
